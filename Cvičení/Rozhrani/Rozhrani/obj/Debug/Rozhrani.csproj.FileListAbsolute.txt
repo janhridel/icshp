@@ -1,0 +1,23 @@
+c:\users\jahr0232\documents\visual studio 2013\Projects\Rozhrani\Rozhrani\bin\Debug\Rozhrani.exe.config
+c:\users\jahr0232\documents\visual studio 2013\Projects\Rozhrani\Rozhrani\obj\Debug\Rozhrani.csprojResolveAssemblyReference.cache
+c:\users\jahr0232\documents\visual studio 2013\Projects\Rozhrani\Rozhrani\obj\Debug\Rozhrani.CeleCisloDialog.resources
+c:\users\jahr0232\documents\visual studio 2013\Projects\Rozhrani\Rozhrani\obj\Debug\Rozhrani.Form1.resources
+c:\users\jahr0232\documents\visual studio 2013\Projects\Rozhrani\Rozhrani\obj\Debug\Rozhrani.Properties.Resources.resources
+c:\users\jahr0232\documents\visual studio 2013\Projects\Rozhrani\Rozhrani\obj\Debug\Rozhrani.csproj.GenerateResource.Cache
+c:\users\jahr0232\documents\visual studio 2013\Projects\Rozhrani\Rozhrani\bin\Debug\Rozhrani.exe
+c:\users\jahr0232\documents\visual studio 2013\Projects\Rozhrani\Rozhrani\bin\Debug\Rozhrani.pdb
+c:\users\jahr0232\documents\visual studio 2013\Projects\Rozhrani\Rozhrani\obj\Debug\Rozhrani.exe
+c:\users\jahr0232\documents\visual studio 2013\Projects\Rozhrani\Rozhrani\obj\Debug\Rozhrani.pdb
+C:\Users\jahr0232\Downloads\Hridel_cv_Rozhrani\Rozhrani\Rozhrani\bin\Debug\Rozhrani.exe.config
+C:\Users\jahr0232\Downloads\Hridel_cv_Rozhrani\Rozhrani\Rozhrani\obj\Debug\Rozhrani.exe
+C:\Users\jahr0232\Downloads\Hridel_cv_Rozhrani\Rozhrani\Rozhrani\obj\Debug\Rozhrani.pdb
+C:\Users\jahr0232\Downloads\Hridel_cv_Rozhrani\Rozhrani\Rozhrani\bin\Debug\Rozhrani.exe
+C:\Users\jahr0232\Downloads\Hridel_cv_Rozhrani\Rozhrani\Rozhrani\bin\Debug\Rozhrani.pdb
+C:\Users\jahr0232\Downloads\Hridel_cv_Rozhrani\Rozhrani\Rozhrani\obj\Debug\Rozhrani.csprojResolveAssemblyReference.cache
+C:\Users\jahr0232\Downloads\Hridel_cv_Rozhrani\Rozhrani\Rozhrani\obj\Debug\Rozhrani.CeleCisloDialog.resources
+C:\Users\jahr0232\Downloads\Hridel_cv_Rozhrani\Rozhrani\Rozhrani\obj\Debug\Rozhrani.Form1.resources
+C:\Users\jahr0232\Downloads\Hridel_cv_Rozhrani\Rozhrani\Rozhrani\obj\Debug\Rozhrani.Properties.Resources.resources
+C:\Users\jahr0232\Downloads\Hridel_cv_Rozhrani\Rozhrani\Rozhrani\obj\Debug\Rozhrani.csproj.GenerateResource.Cache
+C:\Users\Admin\Documents\ICSHP\icshp\Cvičení\Rozhrani\Rozhrani\bin\Debug\Rozhrani.exe.config
+C:\Users\Admin\Documents\ICSHP\icshp\Cvičení\Rozhrani\Rozhrani\obj\Debug\Rozhrani.exe
+C:\Users\Admin\Documents\ICSHP\icshp\Cvičení\Rozhrani\Rozhrani\obj\Debug\Rozhrani.pdb
