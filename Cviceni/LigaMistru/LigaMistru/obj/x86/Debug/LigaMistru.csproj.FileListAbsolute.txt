@@ -1,0 +1,42 @@
+D:\Dokumenty\Visual Studio 2010\Projects\C#\st_7\LigaMistru\LigaMistru\bin\Debug\LigaMistru.exe
+D:\Dokumenty\Visual Studio 2010\Projects\C#\st_7\LigaMistru\LigaMistru\bin\Debug\LigaMistru.pdb
+D:\Dokumenty\Visual Studio 2010\Projects\C#\st_7\LigaMistru\LigaMistru\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Dokumenty\Visual Studio 2010\Projects\C#\st_7\LigaMistru\LigaMistru\obj\x86\Debug\LigaMistru.Form1.resources
+D:\Dokumenty\Visual Studio 2010\Projects\C#\st_7\LigaMistru\LigaMistru\obj\x86\Debug\LigaMistru.Properties.Resources.resources
+D:\Dokumenty\Visual Studio 2010\Projects\C#\st_7\LigaMistru\LigaMistru\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Dokumenty\Visual Studio 2010\Projects\C#\st_7\LigaMistru\LigaMistru\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Dokumenty\Visual Studio 2010\Projects\C#\st_7\LigaMistru\LigaMistru\obj\x86\Debug\LigaMistru.exe
+D:\Dokumenty\Visual Studio 2010\Projects\C#\st_7\LigaMistru\LigaMistru\obj\x86\Debug\LigaMistru.pdb
+D:\Dokumenty\Visual Studio 2010\Projects\C#\st_7\LigaMistru\LigaMistru\obj\x86\Debug\LigaMistru.HracDialog.resources
+C:\Users\h0nza\Dropbox\UPa\2012_2013\Cvičení\st_7\LigaMistru\LigaMistru\obj\x86\Debug\LigaMistru.exe
+C:\Users\h0nza\Dropbox\UPa\2012_2013\Cvičení\st_7\LigaMistru\LigaMistru\obj\x86\Debug\LigaMistru.pdb
+C:\Users\h0nza\Dropbox\UPa\2012_2013\Cvičení\st_7\LigaMistru\LigaMistru\bin\Debug\LigaMistru.exe
+C:\Users\h0nza\Dropbox\UPa\2012_2013\Cvičení\st_7\LigaMistru\LigaMistru\bin\Debug\LigaMistru.pdb
+C:\Users\h0nza\Dropbox\UPa\2012_2013\Cvičení\st_7\LigaMistru\LigaMistru\obj\x86\Debug\LigaMistru.csprojResolveAssemblyReference.cache
+C:\Users\h0nza\Dropbox\UPa\2012_2013\Cvičení\st_7\LigaMistru\LigaMistru\obj\x86\Debug\LigaMistru.Form1.resources
+C:\Users\h0nza\Dropbox\UPa\2012_2013\Cvičení\st_7\LigaMistru\LigaMistru\obj\x86\Debug\LigaMistru.HracDialog.resources
+C:\Users\h0nza\Dropbox\UPa\2012_2013\Cvičení\st_7\LigaMistru\LigaMistru\obj\x86\Debug\LigaMistru.Properties.Resources.resources
+C:\Users\h0nza\Dropbox\UPa\2012_2013\Cvičení\st_7\LigaMistru\LigaMistru\obj\x86\Debug\LigaMistru.csproj.GenerateResource.Cache
+C:\Users\h0nza\Dropbox\UPa\2012_2013\Cvičení\st_7\LigaMistru\LigaMistru\obj\x86\Debug\LigaMistru.NejlepsiKlubyDialog.resources
+C:\Users\Admin\Desktop\LigaMistru\LigaMistru\obj\x86\Debug\LigaMistru.exe
+C:\Users\Admin\Desktop\LigaMistru\LigaMistru\obj\x86\Debug\LigaMistru.pdb
+C:\Users\Admin\Desktop\LigaMistru\LigaMistru\bin\Debug\LigaMistru.exe
+C:\Users\Admin\Desktop\LigaMistru\LigaMistru\bin\Debug\LigaMistru.pdb
+C:\Users\Admin\Desktop\LigaMistru\LigaMistru\obj\x86\Debug\LigaMistru.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\LigaMistru\LigaMistru\obj\x86\Debug\LigaMistru.Form1.resources
+C:\Users\Admin\Desktop\LigaMistru\LigaMistru\obj\x86\Debug\LigaMistru.HracDialog.resources
+C:\Users\Admin\Desktop\LigaMistru\LigaMistru\obj\x86\Debug\LigaMistru.NejlepsiKlubyDialog.resources
+C:\Users\Admin\Desktop\LigaMistru\LigaMistru\obj\x86\Debug\LigaMistru.Properties.Resources.resources
+C:\Users\Admin\Desktop\LigaMistru\LigaMistru\obj\x86\Debug\LigaMistru.csproj.GenerateResource.Cache
+C:\Users\jahr0232\Downloads\LigaMistru\LigaMistru\obj\x86\Debug\LigaMistru.exe
+C:\Users\jahr0232\Downloads\LigaMistru\LigaMistru\obj\x86\Debug\LigaMistru.pdb
+C:\Users\jahr0232\Downloads\LigaMistru\LigaMistru\bin\Debug\LigaMistru.exe
+C:\Users\jahr0232\Downloads\LigaMistru\LigaMistru\bin\Debug\LigaMistru.pdb
+C:\Users\jahr0232\Downloads\LigaMistru\LigaMistru\obj\x86\Debug\LigaMistru.csprojResolveAssemblyReference.cache
+C:\Users\jahr0232\Downloads\LigaMistru\LigaMistru\obj\x86\Debug\LigaMistru.Form1.resources
+C:\Users\jahr0232\Downloads\LigaMistru\LigaMistru\obj\x86\Debug\LigaMistru.HracDialog.resources
+C:\Users\jahr0232\Downloads\LigaMistru\LigaMistru\obj\x86\Debug\LigaMistru.NejlepsiKlubyDialog.resources
+C:\Users\jahr0232\Downloads\LigaMistru\LigaMistru\obj\x86\Debug\LigaMistru.Properties.Resources.resources
+C:\Users\jahr0232\Downloads\LigaMistru\LigaMistru\obj\x86\Debug\LigaMistru.csproj.GenerateResource.Cache
+C:\Users\Admin\Documents\ICSHP\icshp\Cviceni\LigaMistru\LigaMistru\obj\x86\Debug\LigaMistru.exe
+C:\Users\Admin\Documents\ICSHP\icshp\Cviceni\LigaMistru\LigaMistru\obj\x86\Debug\LigaMistru.pdb
