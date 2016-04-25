@@ -1,0 +1,9 @@
+c:\users\jahr0232\documents\visual studio 2013\Projects\RealnaCisla\RealnaCisla\bin\Debug\RealnaCisla.exe.config
+c:\users\jahr0232\documents\visual studio 2013\Projects\RealnaCisla\RealnaCisla\obj\Debug\RealnaCisla.csprojResolveAssemblyReference.cache
+c:\users\jahr0232\documents\visual studio 2013\Projects\RealnaCisla\RealnaCisla\obj\Debug\RealnaCisla.Form1.resources
+c:\users\jahr0232\documents\visual studio 2013\Projects\RealnaCisla\RealnaCisla\obj\Debug\RealnaCisla.Properties.Resources.resources
+c:\users\jahr0232\documents\visual studio 2013\Projects\RealnaCisla\RealnaCisla\obj\Debug\RealnaCisla.csproj.GenerateResource.Cache
+c:\users\jahr0232\documents\visual studio 2013\Projects\RealnaCisla\RealnaCisla\bin\Debug\RealnaCisla.exe
+c:\users\jahr0232\documents\visual studio 2013\Projects\RealnaCisla\RealnaCisla\bin\Debug\RealnaCisla.pdb
+c:\users\jahr0232\documents\visual studio 2013\Projects\RealnaCisla\RealnaCisla\obj\Debug\RealnaCisla.exe
+c:\users\jahr0232\documents\visual studio 2013\Projects\RealnaCisla\RealnaCisla\obj\Debug\RealnaCisla.pdb
